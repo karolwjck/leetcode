@@ -11,3 +11,4 @@ class Solution:
             # If solution not found we update the prevHashMap
             prevHashMap[n] = i
         return
+    
